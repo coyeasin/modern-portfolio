@@ -1,5 +1,5 @@
 [ #Author: code-yeasin ]<br>
-[ #Portfolio: mryeasin.com ]<br>
+[ #Portfolio: https://github.com/coyeasin/ ]<br>
 
 📁 Repo Name: modern-portfolio <br><br>
 🧰 Tools & Technologies:<br><br>
