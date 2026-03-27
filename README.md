@@ -1,4 +1,4 @@
-[ #Author: code-yeasin ]<br>
+[ #Author: coyeasin ]<br>
 [ #Portfolio: https://github.com/coyeasin/ ]<br>
 
 📁 Repo Name: modern-portfolio <br><br>
